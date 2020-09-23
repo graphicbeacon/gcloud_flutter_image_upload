@@ -1,15 +1,18 @@
 # image_upload_gcloud_app
 
-A new Flutter project.
+An app that uploads an image to Google Cloud Storage.
 
-## Getting Started
+## Pre-requisites
 
-This project is a starting point for a Flutter application.
+1. [Install Dart](https://dart.dev)
+2. [Download Flutter](https://flutter.dev)
+3. Create a Google Cloud Project (See tutorial to learn how to do this)
 
-A few resources to get you started if this is your first Flutter project:
+## Run the example
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. Run `flutter pub get` to update your packages
+2. Connect your phone or launch the emulator
+3. Run `flutter run` to launch the project on your device
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
