@@ -1,21 +1,21 @@
 name: image_upload_gcloud_app
-description: A new Flutter project.
-publish_to: 'none'
 version: 1.0.0+1
-environment:
-  sdk: ">=2.7.0 <3.0.0"
-dependencies:
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.7.0 <3.0.0'
+dependencies: 
   cupertino_icons: ^0.1.3
-  flutter:
-    sdk: flutter
   gcloud: ^0.7.3
   googleapis_auth: ^0.2.12
   image_picker: ^0.6.7+10
   mime: ^0.9.7
-dev_dependencies:
-  flutter_test:
+  flutter: 
     sdk: flutter
-flutter:
-  uses-material-design: true
-  assets:
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  assets: 
     - assets/credentials.json
+  uses-material-design: true
