@@ -1,12 +1,14 @@
 # image_upload_gcloud_app
 
-An app that uploads an image to Google Cloud Storage.
+A Flutter app that uploads an image to Google Cloud Storage. 
+
+[See video tutorial](https://youtu.be/CV0vGWDtCR0)
 
 ## Pre-requisites
 
 1. [Install Dart](https://dart.dev)
 2. [Download Flutter](https://flutter.dev)
-3. Create a Google Cloud Project (See tutorial to learn how to do this)
+3. [Google Cloud Account](https://cloud.google.com)
 
 ## Run the example
 
